@@ -140,3 +140,4 @@ if __name__ == "__main__":
 
 # Refactor: minor readability update
 # Refactor: minor formatting cleanup
+# Refactor: remove minor redundancy
