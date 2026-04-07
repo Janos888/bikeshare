@@ -1,3 +1,5 @@
+# Documentation: Script used to demonstrate Git branching and commits
+
 import time
 import pandas as pd
 import numpy as np
