@@ -46,4 +46,4 @@ python bikeshare.py
 ```
 
 ## Credits
-Programming for Data Science with Python – Udacity
+[Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
